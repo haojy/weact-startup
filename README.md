@@ -6,10 +6,10 @@
 ## 使用
 ---
 ```bash
-npm i -g weact-cli
 git clone https://github.com/haojy/weact-startup.git
 cd weact-startup
-weact-cli exapmles/01.hello.world
+yarn add weact-cli
+npx weact-cli exapmles/01.hello.world
 ```
 
 然后就可以在*微信开发者工具*中预览和调试小程序了。
