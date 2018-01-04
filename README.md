@@ -8,13 +8,8 @@
 ```bash
 git clone https://github.com/haojy/weact-startup.git
 cd weact-startup
-<<<<<<< HEAD
 yarn add -D weact-cli
 npx weact exapmles/01.hello.world
-=======
-yarn add weact-cli
-npx weact-cli exapmles/01.hello.world
->>>>>>> 0c29e2cdb3309c4a888ea5f5384b4742050ec57a
 ```
 
 然后就可以在*微信开发者工具*中预览和调试小程序了。
