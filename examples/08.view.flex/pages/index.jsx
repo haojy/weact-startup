@@ -1,6 +1,6 @@
-import { Page, wxss } from 'weact';
+import { Page, WXSS } from 'weact';
 
-wxss`
+WXSS`
 .flex-wrp{
   margin-top: 60rpx;
   display:flex;

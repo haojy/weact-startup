@@ -1,0 +1,12 @@
+{
+  "name": "weact-startup",
+  "version": "1.0.0",
+  "description": "用weact开发JSX小程序",
+  "main": "index.js",
+  "repository": "git@github.com:haojy/weact-startup.git",
+  "author": "haojy <haojiayin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "weact-cli": "^0.2.0"
+  }
+}

@@ -8,7 +8,6 @@ package
 /coverage
 
 # production
-/build
 dist
 *.tgz
 bin
